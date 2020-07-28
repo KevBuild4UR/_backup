@@ -1,5 +1,6 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
+    fixed: true,
     audio: [{
         name: 'name',
         artist: 'artist',
