@@ -48,6 +48,6 @@ When you encounter a situation where you cannot place the spawn point or respawn
 
 You can place team respawn points instead of respawn areas in the capture creator.
 
-### Create a Alien Invasion Survival
+### Create an Alien Invasion Survival
 
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
