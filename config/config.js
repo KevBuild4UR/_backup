@@ -37,7 +37,6 @@ docute.init({
             tags: ['english', 'zh'],
             url: 'https://www.neptune.work'
         }),
-        evanyou(),
         player()
     ]
 });
