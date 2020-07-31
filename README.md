@@ -1,6 +1,6 @@
 # Welcome to the Neptune documentation!
 
-Strategically place pick-ups, define weaponry, location and tons of other variables to make your own unique Job for others to take on. This is the basic rule of Grand Theft Auto V creator. Through the Neptune, you can activate the same creator environment as Rockstar Games, use many new props, and other hidden elements such as invisible props and fake props. This guide provides some general tips to help you better start using Neptune.
+Strategically place pick-ups, define weaponry, location and tons of other variables to make your own unique Job for others to take on. This is the basic rule of Grand Theft Auto V creator. Through the Neptune, you can activate the same creator environment as Rockstar Games, use many new props, and other hidden functions such as invisible props and fake props. This guide provides some general tips to help you better start using Neptune.
 
 ## Introduction to Neptune
 
@@ -47,3 +47,7 @@ When you encounter a situation where you cannot place the spawn point or respawn
 ### Team respawn point option in Capture creator
 
 You can place team respawn points instead of respawn areas in the capture creator.
+
+### Create a Alien Invasion Survival
+
+There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
