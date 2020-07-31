@@ -1,6 +1,6 @@
 # Welcome to the Neptune documentation!
 
-Strategically place pick-ups, define weaponry, location and tons of other variables to make your own unique Job for others to take on. This is the basic rule of Grand Theft Auto V creator. Through the Neptune, you can activate the same creator environment as Rockstar Games, use many new props, and other hidden functions such as invisible props and fake props. This guide provides some general tips to help you better start using Neptune.
+Strategically place pick-ups, define weaponry, location and tons of other variables to make your own unique Job for others to take on. This is the basic rule of Grand Theft Auto V creator. Through the Neptune, you can activate the same creator environment as Rockstar Games, use many new props, and other hidden functions such as invisible props and fake props. This guide provides some general tips to help you better start using Neptune for free.
 
 ## Introduction to Neptune
 
@@ -12,7 +12,7 @@ Get started now and enjoy the developer mode environment of people wanting to cr
 
 You only need to check the "Developer Mode" checkbox in the program to enable developer mode. After this, you will notice some changes in the creator.
 
-### Why can’t I find the unlocked modded props or vehicles(such as specials, after hours decorations, etc.)?
+### Why can’t I find the unlocked modded props or vehicles (such as specials, after hours decorations, etc.)?
 
 This is usually caused by enabling developer mode in the normal creator environment. To solve this problem, please save your current job and exit, reload your job to load the dev creator.
 
