@@ -64,13 +64,17 @@ First of all, place a warp checkpoint and its destination checkpoint, and a chec
 
 ![After the placement, you only need to delete the checkpoint associated with the warp checkpoint. After that, the remaining checkpoint will become the destination.](https://www.neptune.work/images/upload/placesuperlongwarpcheckpoint-2.jpg)
 
-### Set team spawn points anywhere
+### Set team start points anywhere
 
-When you encounter a situation where you cannot place the spawn point or respawn point, just press and hold "Delete" on your keyboard to continue placing it (be careful when using it on props).
+When you encounter a situation where you cannot place the team start point or spawn point, just press and hold "Delete" on your keyboard to continue placing it (be careful when using it on props).
 
 ### Team respawn point option in Capture creator
 
-You can place team respawn points instead of respawn areas in the capture creator.
+There is an unnamed tab between "Team Start Points" and "Team Capture Points" options of the Capture creator, it is the "Team Respawn Points" option. You can place team respawn points instead of respawn areas to respawn the player in any one of the Team Respawn Points you’ve placed.
+
+![There is an unnamed tab between "Team Start Points" and "Team Capture Points" options.](https://www.neptune.work/images/upload/teamrespawnpoint-1.jpg)
+
+![This is where you can place extra spawn points for each team.](https://www.neptune.work/images/upload/teamrespawnpoint-2.jpg)
 
 ### Create an Alien Invasion Survival
 
