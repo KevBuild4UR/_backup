@@ -72,7 +72,7 @@ function clearPlayer () {
 function aplayerfixed () {
     window.ap1 = new APlayer({
         container: document.getElementById('aplayerfixed'),
-        theme: '#F57F17',
+        theme: '#007BFF',
         fixed: true,
         audio: [{
             name: '光るなら',
