@@ -1,6 +1,6 @@
 # Available IPLs
 
-Explore the list of IPLs available for the creator. Each IPL also comes complete with Descriptions and Coords!
+Explore the list of IPLs available for the creator. Each IPL also comes complete with Descriptions and Coords! The list will continue to be updated.
 
 ## Exteriors
 
