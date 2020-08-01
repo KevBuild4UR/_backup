@@ -46,13 +46,13 @@ There is an unnamed tab in the "Survival Details" option of the survival creator
 #### Enter the interior
 You can directly teleport into the interior through the first-person "Cycle Items" option in developer mode. This is impossible in the current ordinary creator. (These interiors are generally not loaded in the game, in the survival creator you will be free to choose whether to enable these interiors)
 
-The first step is to enter the first-person view, and use the "Override options" to move the props to the interior, After the settings are completed, the props will be used as a waypoint.
+The first step is to enter the first-person view, and use the "Override Position" to move the props to the interior, After the settings are completed, the props will be used as a waypoint.
 
 The second step is to select the "Cycle Items" option to switch to the prop you set to be used as a waypoint.
 
 The third step is to remove the prop or select the prop to enter the collision-free state. At this time, you have successfully entered the loaded interior. If you were not teleport to the waypoint prop you set after teleporting, but were teleported to the surface, the reason is probably that the interior has not been loaded yet. If multiple attempts still fail, please try to save the job and reload it or start a test (the purpose is to reload the online contents).
 
-![You can directly teleport into the interior through the first-person "Override options" option in developer mode.](https://www.neptune.work/images/upload/teleporttointerior.jpg)
+![You can directly teleport into the interior through the first-person "Override Position" option in developer mode.](https://www.neptune.work/images/upload/teleporttointerior.jpg)
 
 For more information on available IPLs, please see the "[Available IPLs](https://www.neptune.work/#/ipls)" tab.
 
