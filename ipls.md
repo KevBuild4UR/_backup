@@ -2,7 +2,7 @@
 
 Explore the list of IPLs available for the creator. Each IPL also comes complete with Descriptions and Coords!
 
-==Exteriors==
+## Exteriors
 
 * Aircraft Carrier
 - X: 3084.73
@@ -14,9 +14,9 @@ Explore the list of IPLs available for the creator. Each IPL also comes complete
 - Y: -1036.695
 - Z: 6.707587
 
-==Interiors
+## Interiors
 
-===No IPL but can use it as an interior in the creator===
+### Not IPL but can use it as an interior in the creator
 * Mission Carpark
 - X: 405.9228
 - Y: -954.1149
@@ -56,7 +56,8 @@ Explore the list of IPLs available for the creator. Each IPL also comes complete
 -X: 3525.495 
 -Y: 3705.301 
 -Z: 20.992
-==IPLs==
+
+### IPLs
 
 * Los Santos County Coroner Office/Morgue
 - X: 275.446
