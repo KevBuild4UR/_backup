@@ -63,12 +63,62 @@ You can place team respawn points instead of respawn areas in the capture creato
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
 
 ```c
+    int func_829()
+{
+    int iVar0;
+    
+    if (unk_0xB2A5215A0837CA5F("MenuMGIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGIn");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGSelectionIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGSelectionIn");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGSelectionTint"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGSelectionTint");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGTournamentIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGTournamentIn");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGHeistIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGHeistIn");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGHeistTint"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGHeistTint");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGHeistIntro"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGHeistIntro");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGTournamentTint"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGTournamentTint");
+        iVar0 = 1;
+    }
+    if (unk_0xB2A5215A0837CA5F("MenuMGRemixIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuMGRemixIn");
+        iVar0 = 1;
+    }
     if (unk_0xB2A5215A0837CA5F("MenuSurvivalAlienIn"))
     {
         unk_0xF530F03252D7AEE0("MenuSurvivalAlienIn");
         iVar0 = 1;
     }
     return iVar0;
+}
 ```
 
 ![An unnamed tab in the "Survival Details" option.](https://www.neptune.work/images/uploads/survival-dev-options.jpg)
