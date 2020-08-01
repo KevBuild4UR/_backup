@@ -1,5 +1,5 @@
 const langs = [
-    { title: 'English', path: '/home', matchPath: /^\/(home|ecosystem|support)/ },
+    { title: 'English', path: '/home', matchPath: /^\/(home|contributors|ipls)/ },
     { title: '中文', path: '/zh/', matchPath: /^\/zh/ },
 ];
 
@@ -14,7 +14,7 @@ docute.init({
             {
                 title: 'Contributors', path: '/contributors'
             },
-                        {
+            {
                 title: 'Available IPLs', path: '/ipls'
                 
             },
