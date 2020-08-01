@@ -69,15 +69,15 @@ Explore the list of IPLs available for the creator. Each IPL also comes complete
   - Y: -667.0166
   - Z: 16.13061
   
-![Union Depository](interior-union-depository.jpg)
+![Union Depository](https://www.neptune.work/images/upload/interior-union-depository.jpg)
 
 * Avon Hertz Chiliad Bunker (Missile Base)
   - X: 1259.5418
   - Y: 4812.1196
   - Z: -39.77448
 
-![Missile Base Tunnel](interior-avon-bunker-belong-to-list-12-1.jpg)
-![Missile Base Tunnel](interior-avon-bunker-belong-to-list-12-2.jpg)
+![Missile Base Tunnel](https://www.neptune.work/images/upload/interior-avon-bunker-belong-to-list-12-1.jpg)
+![Missile Base Tunnel](https://www.neptune.work/images/upload/interior-avon-bunker-belong-to-list-12-2.jpg)
 
 * Avon Hertz Chiliad Bunker (Missile Base)
   - X: 1259.5419
@@ -89,21 +89,21 @@ Explore the list of IPLs available for the creator. Each IPL also comes complete
   - Y: 4885.870
   - Z: -62.589
 
-![Submarine](interior-submarine-1.jpg)
-![Submarine](interior-submarine-2.jpg)
+![Submarine](https://www.neptune.work/images/upload/interior-submarine-1.jpg)
+![Submarine](https://www.neptune.work/images/upload/interior-submarine-2.jpg)
 
 * Server Farm
   - X: 2158.118
   - Y: 2920.938
   - Z: -81.075
 
-![Server Farm](interior-server-farm-1.jpg)
-![Server Farm](interior-server-farm-2.jpg)
+![Server Farm](https://www.neptune.work/images/upload/interior-server-farm-1.jpg)
+![Server Farm](https://www.neptune.work/images/upload/interior-server-farm-2.jpg)
 
 * IAA Facility
   - X: 2151.136
   - Y: 2921.330
   - Z: -61.901
 
-![IAA Facility](interior-iaa-facility-1.jpg)
-![IAA Facility](interior-iaa-facility-2.jpg)
+![IAA Facility](https://www.neptune.work/images/upload/interior-iaa-facility-1.jpg)
+![IAA Facility](https://www.neptune.work/images/upload/interior-iaa-facility-2.jpg)
