@@ -15,14 +15,11 @@ docute.init({
                 title: 'Contributors', path: '/contributors'
             },
             {
-                title: 'Available IPLs', path: '/ipls'
-                
+                title: 'Available IPLs', path: '/ipls'                
             },
             {
-                title: 'Languages', type: 'dropdown', items: langs
-                
-            }
-            
+                title: 'Languages', type: 'dropdown', items: langs                
+            }            
         ],
         'zh-Hans': [
             {
@@ -32,8 +29,7 @@ docute.init({
                 title: '贡献者', path: '/zh/contributors'
             },
             {
-                title: '可用物品放置场景', path: '/ipls'
-                
+                title: '可用物品放置场景', path: '/ipls'               
             },
             {
                 title: '语言', type: 'dropdown', items: langs
