@@ -12,6 +12,8 @@ Get started now and enjoy the developer mode environment of people wanting to cr
 
 You only need to check the "Developer Mode" checkbox in the program to enable developer mode. After this, you will notice some changes in the creator.
 
+![Developer Mode](https://www.neptune.work/images/uploads/dev-creator-interface.jpg)
+
 ### Why can’t I find the unlocked modded props or vehicles (such as specials, after hours decorations, etc.)?
 
 This is usually caused by enabling developer mode in the normal creator environment. To solve this problem, please save your current job and exit, reload your job to load the dev creator.
@@ -19,6 +21,10 @@ This is usually caused by enabling developer mode in the normal creator environm
 ## How to replace your job photo through Neptune
 
 Click 'Change you photo' button and select a JPEG image for replacement. After confirmation, the program will start to try to upload. Once the upload finishes, please save your job and exit, reload to check whether the replacement is successful.
+
+![Once the upload finishes, please save your job and reload it.](https://www.neptune.work/images/uploads/replacejobphoto-1.jpg)
+
+![Reload to check whether the replacement is successful.](https://www.neptune.work/images/uploads/replacejobphoto-2.jpg)
 
 ## Some tips that are only available in developer mode creator
 
@@ -40,6 +46,10 @@ The third step is to remove the prop or select the prop to enter the collision-f
 
 First of all, place a warp checkpoint and its destination checkpoint, and a checkpoint you need to use as the real destination. After the placement, you only need to delete the checkpoint associated with the warp checkpoint. After that, the remaining checkpoint will become the destination.
 
+![First, place a warp checkpoint and its destination checkpoint.](https://www.neptune.work/images/uploads/placesuperlongwarpcheckpoint-1.jpg)
+
+![After the placement, you only need to delete the checkpoint associated with the warp checkpoint. After that, the remaining checkpoint will become the destination.](https://www.neptune.work/images/uploads/placesuperlongwarpcheckpoint-2.jpg)
+
 ### Set team spawn points anywhere
 
 When you encounter a situation where you cannot place the spawn point or respawn point, just press and hold "Delete" on your keyboard to continue placing it (be careful when using it on props).
@@ -51,3 +61,20 @@ You can place team respawn points instead of respawn areas in the capture creato
 ### Create an Alien Invasion Survival
 
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
+
+```c
+    if (unk_0xB2A5215A0837CA5F("MenuSurvivalAlienIn"))
+    {
+        unk_0xF530F03252D7AEE0("MenuSurvivalAlienIn");
+        iVar0 = 1;
+    }
+    return iVar0;
+```
+
+![An unnamed tab in the "Survival Details" option.](https://www.neptune.work/images/uploads/survival-dev-options.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/menusurvivalalienin.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/enablealiensurvival.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/aliensurvivalstart.jpg)
