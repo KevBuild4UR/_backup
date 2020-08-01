@@ -21,7 +21,7 @@ docute.init({
                 title: 'Languages', type: 'dropdown', items: langs                
             }            
         ],
-        'zh-Hans': [
+        'zh': [
             {
                 title: '首页', path: '/zh/'
             },
