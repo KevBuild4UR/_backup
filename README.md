@@ -62,6 +62,14 @@ You can place team respawn points instead of respawn areas in the capture creato
 
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
 
+![An unnamed tab in the "Survival Details" option.](https://www.neptune.work/images/uploads/survival-dev-options.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/menusurvivalalienin.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/enablealiensurvival.jpg)
+
+![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/aliensurvivalstart.jpg)
+
 ```c
 int func_829()
 {
@@ -120,11 +128,3 @@ int func_829()
     return iVar0;
 }
 ```
-
-![An unnamed tab in the "Survival Details" option.](https://www.neptune.work/images/uploads/survival-dev-options.jpg)
-
-![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/menusurvivalalienin.jpg)
-
-![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/enablealiensurvival.jpg)
-
-![You need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.](https://www.neptune.work/images/uploads/aliensurvivalstart.jpg)
