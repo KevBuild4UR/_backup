@@ -6,7 +6,7 @@ Neptune is a free program, and currently only one person is involved in the deve
 
 <div class="testimonials media text-muted">
       <div class="avatar rounded-circle mr-2 rounded"><img src="https://www.neptune.work/images/avatar/contributor-avatar-character..jpeg" height="32" width="32"  alt="Contributor"></div>
-      <p class="media-body pb-3 mb-0 small lh-125 border-bottom border-gray">
+      <p class="media-body pb-3 mb-0 border-bottom border-gray">
         <strong class="d-block text-gray-dark">Character.</strong>
         The main developer of Neptune and the only developer at present.
       </p>
