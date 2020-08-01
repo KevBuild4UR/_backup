@@ -63,7 +63,7 @@ You can place team respawn points instead of respawn areas in the capture creato
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the fifth option and set all three options to "Yes" to enable the Alien Invasion Survival.
 
 ```c
-    int func_829()
+int func_829()
 {
     int iVar0;
     
