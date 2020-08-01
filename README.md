@@ -32,8 +32,18 @@ Click "Change you photo" button and select a JPEG image for replacement. After c
 
 In developer mode, you are free to set props, vehicles and other variables in any restricted area.
 
-### Enter the interior
+### Load & Enter the interior
 
+#### Load an interior (Dev Survival Creator Only)
+
+There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the third or the fourth option to load IPLs (the third tab is exteriors and the fourth tab is interiors) in a survival.
+
+![After entering the tab, you need to select the third or the fourth option to load IPLs (the third tab is exteriors and the fourth tab is interiors) in a survival.
+](https://www.neptune.work/images/upload/survivaliplsoptions.jpg)
+
+![Aircraft Carrier (exterior) was loaded.](https://www.neptune.work/images/upload/survivalenableaircraftcarrier.jpg)
+
+#### Enter the interior
 You can directly teleport into the interior through the first-person "Override options" option in developer mode. This is impossible in the current ordinary creator. (These interiors are generally not loaded in the game, in the survival creator you will be free to choose whether to enable these interiors)
 
 The first step is to enter the first-person view, and move the props to the interior, After the settings are completed, the props will be used as a waypoint.
@@ -41,6 +51,8 @@ The first step is to enter the first-person view, and move the props to the inte
 The second step is to select the "Override options" option to switch to the prop you set to be used as a waypoint.
 
 The third step is to remove the prop or select the prop to enter the collision-free state. At this time, you have successfully entered the loaded interior. If you were not teleport to the waypoint prop you set after teleporting, but were teleported to the surface, the reason is probably that the interior has not been loaded yet. If multiple attempts still fail, please try to save the job and reload it or start a test (the purpose is to reload the online contents).
+
+![You can directly teleport into the interior through the first-person "Override options" option in developer mode.](https://www.neptune.work/images/upload/teleporttointerior.jpg)
 
 ### Create a super long distance Transform Race warp checkpoint
 
