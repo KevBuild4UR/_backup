@@ -20,7 +20,7 @@ This is usually caused by enabling developer mode in the normal creator environm
 
 ## How to replace your job photo through Neptune
 
-Click 'Change you photo' button and select a JPEG image for replacement. After confirmation, the program will start to try to upload. Once the upload finishes, please save your job and exit, reload to check whether the replacement is successful.
+Click "Change you photo" button and select a JPEG image for replacement. After confirmation, the program will start to try to upload. Once the upload finishes, please save your job and exit, reload to check whether the replacement is successful.
 
 ![Once the upload finishes, please save your job and reload it.](https://www.neptune.work/images/uploads/replacejobphoto-1.jpg)
 
