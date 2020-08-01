@@ -20,7 +20,7 @@ This is usually caused by enabling developer mode in the normal creator environm
 
 ## How to replace your job photo through Neptune
 
-Click "Change you photo" button and select a JPEG image for replacement. After confirmation, the program will start to try to upload. Once the upload finishes, please save your job and exit, reload to check whether the replacement is successful.
+Click "Change your photo" button and select a JPEG image for replacement. After confirmation, the program will start to try to upload. Once the upload finishes, please save your job and exit, reload to check whether the replacement is successful.
 
 ![Once the upload finishes, please save your job and reload it.](https://www.neptune.work/images/upload/replacejobphoto-1.jpg)
 
@@ -32,9 +32,9 @@ Click "Change you photo" button and select a JPEG image for replacement. After c
 
 In developer mode, you are free to set props, vehicles and other variables in any restricted area.
 
-### Load & Enter the interior
+### Load & Enter IPLs
 
-#### Load an interior (Dev Survival Creator Only)
+#### Load an IPL (Dev Survival Creator Only)
 
 There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the third or the fourth option to load IPLs (the third tab is exteriors and the fourth tab is interiors) in a survival.
 
