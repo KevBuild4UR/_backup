@@ -54,6 +54,8 @@ The third step is to remove the prop or select the prop to enter the collision-f
 
 ![You can directly teleport into the interior through the first-person "Override options" option in developer mode.](https://www.neptune.work/images/upload/teleporttointerior.jpg)
 
+For more information on available IPLs, please see the "Available IPLs" tab.
+
 ### Create a super long distance Transform Race warp checkpoint
 
 First of all, place a warp checkpoint and its destination checkpoint, and a checkpoint you need to use as the real destination. After the placement, you only need to delete the checkpoint associated with the warp checkpoint. After that, the remaining checkpoint will become the destination.
