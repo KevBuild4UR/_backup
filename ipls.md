@@ -29,7 +29,7 @@ There is an unnamed tab in the "Survival Details" option of the survival creator
 
 ## Interiors
 
-### Not IPL but can use it as an interior in the creator
+### Not IPL but it can use as an interior in the creator
 
 #### Mission Carpark
   - X: 405.9228
