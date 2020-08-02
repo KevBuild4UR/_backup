@@ -4,7 +4,7 @@ search: english
 
 # Available IPLs
 
-Explore the list of IPLs available for the creator. Each IPL also comes complete with Descriptions, Images and Coords! The list will continue to be updated.
+Explore the list of IPLs available for the creator. Each IPL also comes complete with Descriptions, Images and Coordinates! The list will continue to be updated.
 
 ## How to load an IPL in the creator? (Dev Survival Creator Only)
 
