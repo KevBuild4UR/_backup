@@ -1,3 +1,7 @@
+---
+search: english
+---
+
 # Welcome to the Neptune documentation!
 
 Strategically place pick-ups, define weaponry, location and tons of other variables to make your own unique Job for others to take on. This is the basic rule of Grand Theft Auto V creator. Through the Neptune, you can activate the same creator environment as Rockstar Games, use many new props, and other hidden functions such as finish line camera, invisible props (Retail version Only) and fake props (Retail version Only). This guide provides some general tips to help you better start using Neptune for free.
