@@ -16,7 +16,7 @@ There are two ways to help you enter the interior in the creator, one is only su
 
 ### Press "Space" key (Keyboard) or "X" key (Controller) (Available in Dev Survival Creator and Dev Arena War Series creator)
 
-You only need to find the interior you have enabled and press "Space" key or "X" key to quickly teleport to the loaded interior.
+You only need to find the interior you have enabled and press "Space" key (Keyboard) or "X" key (Controller) to quickly teleport to the loaded interior.
 
 ![You only need to find the interior you have enabled and press "space" to quickly teleport to the loaded interior.](https://www.neptune.work/images/upload/interior-special-cars-management.jpg)
 
