@@ -191,12 +191,12 @@ The third step is to remove the prop or select the prop to enter the collision-f
 
 ![ONeil's Farm](https://www.neptune.work/images/upload/interior-oneil-s-farm.jpg)
 
-#### Cluck'in Bell Factory (FMMC_INT_MENUT/FMMC_WRP_LOC3)
+#### Raven Slaughterhouse (FMMC_INT_MENUT/FMMC_WRP_LOC3)
   - X: 982.23
   - Y: -2160.38
   - Z: 29.48
 
-![Cluck'in Bell Factory](https://www.neptune.work/images/upload/interior-cluckin-bell-factory.jpg)
+![Raven Slaughterhouse](https://www.neptune.work/images/upload/interior-cluckin-bell-factory.jpg)
 
 #### Gunrunning Bunker (FMMC_INT_MENUT/FMMC_LOC_BUNK)
   - X: 938.3
