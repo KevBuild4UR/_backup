@@ -54,7 +54,7 @@ Neptune 的功能主要是多版本通用功能。一般来说，即使游戏已
 
 ![You can directly teleport into the interior through the first-person "Override options" option in developer mode.](https://www.neptune.work/images/upload/teleporttointerior.jpg)
 
-有关可用IPL的更多信息，请参见“ [可用IPL](https://www.neptune.work/#/zh/ipls)”标签。
+有关可用IPL的更多信息，请参见“[可用物品放置场景](https://www.neptune.work/#/zh/ipls)”选项卡。
 
 ### 创建超远距离变形狂飙竞速传送检查点
 
