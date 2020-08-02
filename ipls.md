@@ -104,9 +104,9 @@ The third step is to remove the prop or select the prop to enter the collision-f
   - Z: 250.063
 
 #### Humane Labs Tunnel 
-  -X: 3525.495 
-  -Y: 3705.301 
-  -Z: 20.992
+  - X: 3525.495 
+  - Y: 3705.301 
+  - Z: 20.992
 
 ### IPLs
 
