@@ -14,7 +14,7 @@ There is an unnamed tab in the "Survival Details" option of the survival creator
 
 There are two ways to help you to enter the interior. There are two ways to help you enter the interior in the creator, one is only suitable for Survival or Arena Wars Series  dev creator, and another one is suitable for all dev creator environments.
 
-### Press "Space" key (Available in Dev Survival Creator and Dev Arena War Series creator)
+### Press "Space" key (Keyboard) or "X" key (Controller) (Available in Dev Survival Creator and Dev Arena War Series creator)
 
 You only need to find the interior you have enabled and press "space" to quickly teleport to the loaded interior.
 
