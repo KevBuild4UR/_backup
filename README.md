@@ -48,7 +48,7 @@ There is an unnamed tab in the "Survival Details" option of the survival creator
 ![Aircraft Carrier (exterior) was loaded.](https://www.neptune.work/images/upload/survivalenableaircraftcarrier.jpg)
 
 #### Enter the interior
-You can directly teleport into the interior through the first-person "Cycle Items" option in developer mode. This is impossible in the current ordinary creator. (These interiors are generally not loaded in the game, in the survival creator you will be free to choose whether to enable these interiors)
+You can directly enter the interior by pressing the "Space" key (Keyboard) or "X" key (Controller) under the enabled interior options, or you can teleport into the interior through the first-person "Cycle Items" option in developer mode. This is impossible in the current ordinary creator. (These interiors are generally not loaded in the game, in the survival creator you will be free to choose whether to enable these interiors)
 
 The first step is to enter the first-person view, and use the "Override Position" to move the props to the interior, After the settings are completed, the props will be used as a waypoint.
 
