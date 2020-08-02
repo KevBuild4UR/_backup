@@ -4,7 +4,7 @@ Explore the list of IPLs available for the creator. Each IPL also comes complete
 
 ## How to load an IPL in the creator? (Dev Survival Creator Only)
 
-There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the third or the fourth option to load IPLs (the third tab is exteriors and the fourth tab is interiors) in a survival. Some interior options may be included in a submenu. In the following, we will also attach a screenshot of the submenu to which they belong (the submenu comes first, and the IPL options follows).
+There is an unnamed tab in the "Survival Details" option of the survival creator. After entering the tab, you need to select the third or the fourth option to load IPLs (the third tab is exteriors and the fourth tab is interiors) in a survival. Some interior options may be included in a submenu. In the following, we will also attach a screenshot of the submenu to which they belong (the submenu comes first, and IPL options follows).
 
 ## Exteriors
 
