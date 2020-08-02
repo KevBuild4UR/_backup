@@ -8,7 +8,7 @@ Strategically place pick-ups, define weaponry, location and tons of other variab
 
 ## Introduction to Neptune
 
-The functions of Neptune are mainly multi-version common functions. Generally speaking, Neptune's "enable Developer mode" and other features are still available even if the game is updated. In addition, you can use Neptune to modify the photo of your jobs.
+The functions of Neptune are mainly multi-version common functions. Generally speaking, Neptune's "Developer mode" and other features are still available even if the game is updated. In addition, you can use Neptune to modify the photo of your jobs.
 
 Get started now and enjoy the developer mode environment of people wanting to create the most creative jobs in the Grand Theft Auto V.
 
