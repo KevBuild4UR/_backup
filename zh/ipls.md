@@ -15,9 +15,9 @@ search: zh
 
 有两种方法可以帮助您在制作器中进入内部，一种仅适用于开发者模式生存战或竞技场之战系列制作器，另一种适用于所有制作器环境。
 
-### 按“空格”键（键盘）或“X”键（在生存战和竞技场之战系列制作器中可用）
+### 按“空格”键（键盘）或“X”键（游戏手柄）（在生存战和竞技场之战系列制作器中可用）
 
-您只需要找到已启用的内部，然后按“空格”或“X”键即可快速传送到已加载的内部。
+您只需要找到已启用的内部，然后按“空格”键（键盘）或“X”键（游戏手柄）即可快速传送到已加载的内部。
 
 ![You only need to find the interior you have enabled and press "space" to quickly teleport to the loaded interior.](https://www.neptune.work/images/upload/interior-special-cars-management.jpg)
 
