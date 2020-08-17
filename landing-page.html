@@ -1,4 +1,4 @@
-{% include landing-header.html %}
+​<!-- Welcome Section --> <div class="welcome d-flex justify-content-center flex-column"> <div class="container"> <!-- Navigation --> <nav class="navbar navbar-expand-lg navbar-dark pt-4 px-0"> <a class="navbar-brand" href="#"> <img src="images/agency-landing/neptune-logo-white.png" width="28px" height="28px" class="mr-2" alt="Neptune Works"> Neptune Works </a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button> <div class="collapse navbar-collapse" id="navbarNavDropdown"> <ul class="navbar-nav"> <li class="nav-item active"> <a class="nav-link" href="https://www.neptune.work">Home <span class="sr-only">(current)</span></a> </li> <li class="nav-item"> <a class="nav-link" router-link="/home">Docs</a> </li> </ul> <ul class="navbar-nav ml-auto"> <li class="nav-item active"> <a class="nav-link" href="mailto:info@neptune.work"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;info@neptune.work <span class="sr-only">(current)</span></a> </li> </ul> </div> </nav> <!-- / Navigation --> </div> <!-- .container -->
 
         <!-- Inner Wrapper -->
         <div class="inner-wrapper mt-auto mb-auto container">
@@ -112,4 +112,29 @@
       </div>
       <!-- / Testimonials Section -->
 
-      {% include landing-footer.html %}
+      <!-- Footer Section -->
+      <footer>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div class="container">
+            <a class="navbar-brand" href="#">Neptune Works</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ml-auto text-center">
+                <li class="nav-item active">
+                  <a class="nav-link" href="https://www.neptune.work">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" router-link="/home">Docs</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" href="mailto:info@neptune.work"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;info@neptune.work <span class="sr-only">(current)</span></a>
+                </li>
+              </ul>
+            </div>
+
+          </div>
+        </nav>
+      </footer>
+      <!-- / Footer Section -->
