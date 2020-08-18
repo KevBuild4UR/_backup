@@ -1,4 +1,117 @@
 ---
 layout: default
 ---
-      <div id="app"></div>
+{% include landing-header.html %}
+        <!-- Inner Wrapper -->
+        <div class="inner-wrapper mt-auto mb-auto container">
+          <div class="row">
+            <div class="col-md-7">
+                <h1 class="welcome-heading display-4 text-white">Never Stop</h1>
+                <p class="text-white">Ignore game update restrictions, use Neptune to unlock more hidden features of the creator.</p>
+                <a href="#/home" class="btn btn-lg btn-outline-white btn-pill align-self-center">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <!-- / Inner Wrapper -->
+      </div>
+      <!-- / Welcome Section -->
+
+      <!-- Our Services Section -->
+      <div id="our-services" class="our-services section py-4">
+        <h3 class="section-title text-center my-5">New Experience</h3>
+        <!-- Features -->
+        <div class="features py-4 mb-4">
+          <div class="container">
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-code"></i></div>
+                <div class="px-4">
+                    <h5>Developer Mode</h5>
+                    <p>You only need to check the "Developer Mode" checkbox in the program to activate the same creator environment as Rockstar Games.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-star"></i></div>
+                <div class="px-4">
+                    <h5>Free for All</h5>
+                    <p>No need to pay any fees, just pass a simple verification to start using Neptune.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-image"></i></div>
+                <div class="px-4">
+                    <h5>Global Initiative - Replace your job image</h5>
+                    <p>In fact, we completed the development of this feature as early as August 2, 2019, but we never released it to anyone other than our discussion group.</p>
+                </div>
+              </div>
+              <div class="feature py-4 col-md-6 d-flex">
+                <div class="icon text-primary mr-3"><i class="fa fa-arrow-right"></i></div>
+                <div class="px-4">
+                    <h5>And More</h5>
+                    <p>Let's make our Jobs special with developer mode and other amazing functions. <a href="https://www.neptune.work/#/home">Click here</a> for more information, and some translated versions are available.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- / Features -->
+      </div>
+      <!-- / Our Services Section -->
+
+      <!-- Version Support Section -->
+<div class="testimonials section-invert py-4">
+          <h3 class="section-title text-center m-5">Support all PC versions</h3>
+          <div class="container py-5">
+            <div class="row">
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar mb-3 ml-auto mr-auto">
+                        <img src="images/icon/steam_256.png" class="w-100" alt="Steam">
+                    </div>
+                    <h5 class="mb-1">Steam</h5>
+                    <p></p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar mb-3 ml-auto mr-auto">
+                        <img src="images/icon/retail_256.png" class="w-100" alt="Social Club (Retail)">
+                    </div>
+                    <h5 class="mb-1">Social Club (Retail)</h5>
+                    <p></p>
+                </div>
+
+                <div class="col-md-4 testimonial text-center">
+                    <div class="avatar mb-3 ml-auto mr-auto">
+                        <img src="images/icon/epic_256.png" class="w-100" alt="Epic Games Launcher">
+                    </div>
+                    <h5 class="mb-1">Epic Games Launcher</h5>
+                    <p></p>
+                </div>                  
+            </div>                
+          </div>
+      <p class="text-center">Remark: The Grand Theft Auto V you purchased on Rockstar Warehouse, Amazon, Green Man Gaming, GameStop and other sites are all retail versions.</p>
+      </div>
+      <!-- / Our Blog Section -->
+
+      <!-- Testimonials Section -->
+      <div class="testimonials section py-4">
+          <h3 class="section-title text-center m-5">Contributors</h3>
+          <div class="container py-5">
+            <div class="row">
+                <div class="col-md-12 testimonial text-center">
+                    <div class="avatar rounded-circle with-shadows mb-3 ml-auto mr-auto">
+                        <img src="https://www.neptune.work/images/avatar/contributor-avatar-character..jpeg" class="w-100" alt="Contributor" />
+                    </div>
+                    <h5 class="mb-1">Character.</h5>
+                    <span class="text-muted d-block mb-2">Main Developer</span>
+                    <p>The main developer of Neptune and the only developer at present.</p>
+                </div>
+            </div>
+          </div>
+          <p class="text-center"><a router-link="/contributors" class="btn btn-lg btn-pill btn-primary align-self-center text-white">More Contributors</a></p>
+      </div>
+      <!-- / Testimonials Section -->
+
+      {% include landing-footer.html}
