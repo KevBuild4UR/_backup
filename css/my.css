@@ -1,0 +1,21 @@
+@media screen and (max-width: 64em) and (min-width: 42em)
+.page-header {
+    padding: 3rem 4rem;
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+@media screen and (max-width: 64em) and (min-width: 42em)
+.main-content {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+}
+
+.main-content {
+    word-wrap: break-word;
+}
