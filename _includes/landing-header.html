@@ -14,10 +14,12 @@
               <ul class="navbar-nav">
                 <li class="nav-item active">
                   <a class="nav-link" href="https://www.neptune.work">Home <span class="sr-only">(current)</span></a>
-                </li>
+                </li>               
+               {% for i in site.nav %}
                 <li class="nav-item">
-                  <a class="nav-link" href="https://docs.neptune.work">Docs</a>
+                  <a class="nav-link" href="{{ i[1] | relative_url}}">{{ i[0] }}</a>
                 </li>
+               {% endfor %}
               </ul>
 
               <ul class="navbar-nav ml-auto">
