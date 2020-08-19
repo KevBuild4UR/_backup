@@ -19,11 +19,10 @@ layout: default
         <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}"></a>
         <h2 class="blog-post-title">{{ post.title }}</h2>
         <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p>
-        <time datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
+        <time datetime="{{ post.date | date:"%m-%d-%y" }}">{{ post.date | date_to_string }}</time>
       </div>
       </article>
-      {% endif %}
-
+      {% endfor %}
 </main>
 </section>
 
