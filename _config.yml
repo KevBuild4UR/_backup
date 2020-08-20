@@ -3,7 +3,7 @@ baseurl: '/blog'
 # Markdown
 markdown: kramdown
 
-permalink: /blog/:month:day:year/:title
+permalink: /:year/:month/:day/:title.html
 
 # Navbar (EN)
 nav:
