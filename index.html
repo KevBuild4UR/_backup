@@ -112,17 +112,6 @@ layout: default
           </div>
           <p class="text-center"><a router-link="/contributors" class="btn btn-lg btn-pill btn-primary align-self-center text-white">More Contributors</a></p>
       </div>
-
-{% for post in paginator.posts %}
-      <div class="card-deck mb-3">    
-    <div class="card mb-4 shadow-sm">      
-      <div class="card-body">
-        <h2>{{ post.title }}</h2>        
-        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p>
-      <a href="{{ post.url }}" class="stretched-link">Read More</a></div>
-    </div>   
-  </div>
-{% endfor %}
       <!-- / Testimonials Section -->
 
       {% include landing-footer.html %}
