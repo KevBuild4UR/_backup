@@ -18,7 +18,7 @@ layout: default
       <div class="card-body">
         <h2>{{ post.title }}</h2>        
         <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p>
-      <a href="{{ post.url }}" class="stretched-link">Read More</a></div>
+      <a href="{{ post.url }}.html" class="stretched-link">Read More</a></div>
     </div>   
   </div>
 {% endfor %}
