@@ -1,3 +1,8 @@
+baseurl: ''
+
+# Markdown
+markdown: kramdown
+
 permalink: /blog/:month:day:year/:title
 
 # Navbar (EN)
