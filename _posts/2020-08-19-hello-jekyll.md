@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 'Hello Jekyll'
 date: 2020-08-19 20:00:00
 ---
