@@ -2,6 +2,7 @@
 layout: post
 title: 'Hello Jekyll'
 date: 2020-08-19 20:00:00
+cover: 'https://media.rockstargames.com/rockstargames-newsite/uploads/8f9504ca1c5997a335f258f6894d8ac1f0782ad5.jpg'
 ---
 
 > Transform your plain text into static websites and blogs.
