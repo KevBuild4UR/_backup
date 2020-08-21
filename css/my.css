@@ -1,15 +1,4 @@
-@media screen and (max-width: 64em) and (min-width: 42em)
-.blog-content {
-    padding: 2rem 4rem;
-    font-size: 1.1rem;
-    background-color: #fff;
-}
-
-.blog-content {
-    word-wrap: break-word;
-}
-
-@media screen and (min-width: 64em)
+@media screen and (min-width: 64em){
 .blog-header {
     padding: 5rem 6rem;
 }
@@ -27,4 +16,17 @@
     z-index: -1;
     background-position: center center;
     background-size: cover;
+    }
+}
+
+@media screen and (max-width: 64em) and (min-width: 42em){
+.blog-content {
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
+    background-color: #fff;
+}
+
+.blog-content {
+    word-wrap: break-word;
+    }
 }
