@@ -1,16 +1,16 @@
 {% include header.html %}
 {% include blog-header.html %}
 {% if page.cover %}
-<section id="blog-header" class="blog-header">
+<section id="blog-header">
   <div class="container" style="padding-top: 7rem;">
     <div class="row">
       <div class="col-md-12 col-md-offset-1 text-center"></div>
     </div>
   </div>
-  <div class="blog-header-filter blog-header-filter-gradient" style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;"></div>
+  <div class="blog-header-filter blog-header-filter-gradient" style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover; padding-bottom: 5rem;"></div>
 </section>
 {% endif %}
-<section id="blog-content" class="blog-content">
+<section id="blog-content">
 <div class="container">  
   <div class="col-md-12">
     <h1>{{ page.title }}</h1>
