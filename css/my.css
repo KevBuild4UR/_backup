@@ -8,6 +8,11 @@
     word-wrap: break-word;
 }
 
+@media screen and (min-width: 64em)
+.blog-header {
+    padding: 5rem 6rem;
+}
+
 .blog-header-filter-gradient {
     background: linear-gradient(120deg, #155799, #159957);
 }
