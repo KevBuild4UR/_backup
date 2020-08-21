@@ -1,21 +1,24 @@
 @media screen and (max-width: 64em) and (min-width: 42em)
-.page-header {
-    padding: 3rem 4rem;
-}
-
-.page-header {
-    color: #fff;
-    text-align: center;
-    background-color: #159957;
-    background-image: linear-gradient(120deg, #155799, #159957);
-}
-
-@media screen and (max-width: 64em) and (min-width: 42em)
-.main-content {
+.blog-content {
     padding: 2rem 4rem;
     font-size: 1.1rem;
 }
 
-.main-content {
+.blog-content {
     word-wrap: break-word;
+}
+
+.blog-header-filter-gradient {
+    background: linear-gradient(120deg, #155799, #159957);
+}
+
+.blog-header-filter {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background-position: center center;
+    background-size: cover;
 }
