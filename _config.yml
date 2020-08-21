@@ -3,7 +3,7 @@ baseurl: ''
 # Markdown
 markdown: kramdown
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title
 
 # Navbar (EN)
 nav:
