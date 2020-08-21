@@ -19,11 +19,8 @@
     }
 }
 
-@media screen and (max-width: 64em) and (min-width: 42em){
 .blog-content {
-    padding: 2rem 4rem;
+    padding: 5rem 6rem;
     font-size: 1.1rem;
-    word-wrap: break-word;
     background-color: #fff;
-}
 }
