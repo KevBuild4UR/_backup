@@ -2,7 +2,7 @@
 {% include blog-header.html %}
 {% if page.cover %}
 <section id="blog-header">
-  <div class="masthead bg-light" style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;">
+  <div class="masthead bg-light" style="padding-top: 36rem; background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;">
   <div class="container">
     <div class="row">
       <div class="col-md-12 col-md-offset-1 text-center"></div>
@@ -12,10 +12,14 @@
 </section>
 {% endif %}
 <section id="blog-main-content">
+  <div class="container">
+    <div class="posts-container mx-auto px-3 my-5">
 <div class="post">  
     <h1>{{ page.title }}</h1>
     {{ page.content }}
 </div>
+    </div>
+  </div>
 </section>
 {% include landing-footer.html %}
 {% include footer.html %}
