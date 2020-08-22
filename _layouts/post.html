@@ -2,20 +2,19 @@
 {% include blog-header.html %}
 {% if page.cover %}
 <section id="blog-header">
-  <div class="container" style="padding-top: 6rem; padding-buttom: 6rem;">
+  <div class="masthead bg-light" style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;">
+  <div class="container">
     <div class="row">
       <div class="col-md-12 col-md-offset-1 text-center"></div>
-    </div>
+    </div>   
   </div>
-  <div class="blog-header-filter blog-header-filter-gradient" style="background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;"></div>
+</div>
 </section>
 {% endif %}
-<section id="blog-content" style="padding-top: 7rem; background-color: #fff;">
-<div class="container">  
-  <div class="col-md-12">
+<section id="blog-main-content">
+<div class="post">  
     <h1>{{ page.title }}</h1>
     {{ page.content }}
-    </div>
 </div>
 </section>
 {% include landing-footer.html %}
