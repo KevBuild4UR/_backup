@@ -13,4 +13,4 @@ nav:
 paginate: 6
 paginate_path: 'blog/page:num'
 
-blog-header-bg-color: '120deg, #155799, #159957'
+blog-header-bg-color: '120deg, #00458A, #01C1CE'
