@@ -21,5 +21,31 @@
     </div>
   </div>
 </section>
+<section id="blog-other-posts">
+{% if page.next.url %}
+<h3 class="section-title text-center m-5">Other Posts</h3><div class="posts-container mx-auto px-3 my-5">
+<div class="posts">
+<div class="card-deck mb-3">
+<div class="card mb-4 shadow-sm">
+<div class="card-body">
+<h2>{{ page.next.title }}</h2>
+<p>{{ page.next.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
+<a href="{{ page.next.url | relative_url }}" class="stretched-link">Read More</a></div>
+</div> 
+</div>
+{% endif %}
+{% if page.previous.url %}
+<div class="card-deck mb-3">
+<div class="card mb-4 shadow-sm">
+<div class="card-body">
+<h2>{{ page.previous.title }}</h2>
+<p>{{ page.previous.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
+<a href="{{ page.previous.url | relative_url }}" class="stretched-link">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+{% endif %}
+</section>
 {% include landing-footer.html %}
 {% include footer.html %}
