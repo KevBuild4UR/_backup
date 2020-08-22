@@ -12,3 +12,5 @@ nav:
 # Build settings
 paginate: 6
 paginate_path: 'blog/page:num'
+
+blog-header-bg-color: '120deg, #155799, #159957'
