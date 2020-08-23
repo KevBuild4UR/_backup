@@ -7,7 +7,8 @@ permalink: /blog/:year/:month/:day/:title
 
 # Navbar (EN)
 nav:
-  Docs: 'https://docs.neptune.work'
+  Docs: 'https://docs.neptune.work',
+  Blog: 'https://www.neptune.work/blog'
   
 # Build settings
 paginate: 6
