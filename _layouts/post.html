@@ -2,7 +2,7 @@
 {% include blog-header.html %}
 {% if page.cover %}
 <section id="blog-header">
-  <div class="masthead bg-light" style="padding-top: 36rem; background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;">
+  <div class="masthead bg-light" style="display: block; margin: 0 auto 0; padding-top: 22rem; background: url('{{ page.cover | relative_url }}') center no-repeat; background-size: cover;">
   <div class="container">
     <div class="row">
       <div class="col-md-12 col-md-offset-1 text-center"></div>
@@ -17,6 +17,7 @@
 <div class="posts">
 <div class="post">  
     <h1>{{ page.title }}</h1>
+    <span class="post-date"><time datetime="{{ page.date | date:"%m-%d-%y" }}">{{ page.date | date_to_string }}</time></span>
     {{ page.content }}
 </div>
     </div>
