@@ -3,6 +3,8 @@ layout: post
 title: 'Hello Jekyll'
 date: 2020-08-19 20:00:00
 cover: 'https://media.rockstargames.com/rockstargames-newsite/uploads/8f9504ca1c5997a335f258f6894d8ac1f0782ad5.jpg'
+author: 'Character.'
+author-avatar: 'https://www.neptune.work/images/avatar/contributor-avatar-character..jpeg'
 ---
 
 > Transform your plain text into static websites and blogs.
