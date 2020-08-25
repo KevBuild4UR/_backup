@@ -11,7 +11,7 @@ Today I upgraded the style library of the site from Bootstrap 4 to [Bootstrap 5]
 
 Actually, what attracts me the most about the Bootstrap 5 is that it's smaller and has more styles.
 
-![BS5](https://blog.getbootstrap.com/assets/img/2020/06/v5-home.png)
+![BS5](https://blog.getbootstrap.com/assets/img/2020/06/v5-home.png){:class="img-thumbnail"}
 
 And I found that the Bootstrap 5 is compatible with this site that references Bootstrap 4.0.0 beta.
 
