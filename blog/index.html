@@ -32,7 +32,7 @@ blog-title: Neptune Blog
         {% endfor %}
         {% endif %}
         <h2>{{ post.title }}</h2>
-        <span class="post-date">{% if page.author %}<img src="{{ page.author-avatar | relative_url }}" height="32" width="32" alt="{{ page.author }}" style="border-radius: 50%!important;">&nbsp;{{ page.author }}&nbsp;{% endif %}<time datetime="{{ page.date | date:"%m-%d-%y" }}">{{ page.date | date_to_string }}</time></span>            
+        <span class="post-date">{% if post.author %}<img src="{{ post.author-avatar | relative_url }}" height="32" width="32" alt="{{ post.author }}" style="border-radius: 50%!important;">&nbsp;{{ post.author }}&nbsp;{% endif %}<time datetime="{{ post.date | date:"%m-%d-%y" }}">{{ post.date | date_to_string }}</time></span>            
         <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p>
       <a href="{{ post.url }}" class="stretched-link">Read More</a></div>
     </div>   
@@ -56,6 +56,7 @@ blog-title: Neptune Blog
     {% endif %}
     
   </div>
+</div>
 </div>
 
 {% include landing-footer.html %}
