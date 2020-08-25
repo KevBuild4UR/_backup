@@ -13,7 +13,7 @@ Actually, what attracts me the most about the Bootstrap 5 is that it's smaller a
 
 ![BS5](https://blog.getbootstrap.com/assets/img/2020/06/v5-home.png)
 
-And I found that the Bootstrap 5 is compatible with my site that references bootstrap 4.0.0 beta.
+And I found that the Bootstrap 5 is compatible with this site that references Bootstrap 4.0.0 beta.
 
 ### Test
 
