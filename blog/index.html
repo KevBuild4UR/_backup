@@ -31,7 +31,8 @@ blog-title: Neptune Blog
         <strong class="d-inline-block mb-2" style="color: #00d5ff;">{{ tag }}</strong>
         {% endfor %}
         {% endif %}
-        <h2>{{ post.title }}</h2>        
+        <h2>{{ post.title }}</h2>
+        <span class="post-date">{% if page.author %}<img src="{{ page.author-avatar | relative_url }}" height="32" width="32" alt="{{ page.author }}" style="border-radius: 50%!important;">&nbsp;{{ page.author }}&nbsp;{% endif %}<time datetime="{{ page.date | date:"%m-%d-%y" }}">{{ page.date | date_to_string }}</time></span>            
         <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 126}}</p>
       <a href="{{ post.url }}" class="stretched-link">Read More</a></div>
     </div>   
