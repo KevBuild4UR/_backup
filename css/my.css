@@ -3,6 +3,11 @@
 	--bs-primary: #007bff;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .f0 {
 	font-size: 3rem
 }
