@@ -33,6 +33,7 @@
 <div class="card mb-4 shadow-sm">
 <div class="card-body">
 <h2>{{ page.next.title }}</h2>
+<span class="post-date">{% if page.next.author %}<img src="{{ page.next.author-avatar | relative_url }}" height="32" width="32" alt="{{ page.next.author }}" style="border-radius: 50%!important;">&nbsp;{{ page.next.author }}&nbsp;{% endif %}<time datetime="{{ page.next.date | date:"%m-%d-%y" }}">{{ page.next.date | date_to_string }}</time></span>
 <p>{{ page.next.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
 <a href="{{ page.next.url | relative_url }}" class="stretched-link">Read More</a></div>
 </div> 
@@ -43,6 +44,7 @@
 <div class="card mb-4 shadow-sm">
 <div class="card-body">
 <h2>{{ page.previous.title }}</h2>
+<span class="post-date">{% if page.previous.author %}<img src="{{ page.previous.author-avatar | relative_url }}" height="32" width="32" alt="{{ page.previous.author }}" style="border-radius: 50%!important;">&nbsp;{{ page.previous.author }}&nbsp;{% endif %}<time datetime="{{ page.previous.date | date:"%m-%d-%y" }}">{{ page.previous.date | date_to_string }}</time></span>
 <p>{{ page.previous.excerpt | strip_html | strip_newlines | truncate: 60}}</p>
 <a href="{{ page.previous.url | relative_url }}" class="stretched-link">Read More</a></div>
 </div>
@@ -53,7 +55,6 @@
 </section>
 {% include landing-footer.html %}
 <script>
-    $('.entry a:has(img)').addClass("img-thumbnail");
     document.title = '{{ page.title }} - Neptune Works'
 </script>
 {% include footer.html %}
