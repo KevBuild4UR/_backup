@@ -1,7 +1,4 @@
----
-layout:default
-site-nav-title: Neptune Blog
----
+{% include header.html %}
 {% include blog-header.html %}
 {% if page.cover %}
 <section id="blog-header">
@@ -60,3 +57,4 @@ site-nav-title: Neptune Blog
 <script>
     document.title = '{{ page.title }} - Neptune Works'
 </script>
+{% include footer.html %}
