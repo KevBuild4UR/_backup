@@ -1,7 +1,10 @@
-new Router({
+export default new Router({
   mode: 'history',
-  base: process.env.BASE_URL,
-  routes
+  routes: [
+    {
+      path: '/users/'
+    }
+  ]
 })
 
 var url = window.location.href;
