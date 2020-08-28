@@ -1,3 +1,8 @@
+AV.init({
+  appId: "2p7X9CLbsFtbpTmPTccmt08D-MdYXbMMI",
+  appKey: "SmVKjzzmz7K8Xf0Eo3FRK2AI",
+});
+
 var url = window.location.href;
 
 function getCaption(obj)
