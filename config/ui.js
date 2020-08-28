@@ -1,10 +1,12 @@
-function getQueryString(name) { 
-        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i"); 
-        var r = window.location.search.substr(1).match(reg); 
-        if (r != null) return unescape(r[2]); 
-        return null; 
-    }
+var url = window.location.href;
+
+function getCaption(obj){
+    var index=obj.lastIndexOf("\?nickname=");
+    obj=obj.substring(index+10,obj.length);
+//  console.log(obj);
+    return obj;
+}
 
 window.onload = function() {
-  document.getElementById('main').innerHTML = getQueryString(testfunc)
+  document.getElementById('main').innerHTML = getCaption(url);
 }
