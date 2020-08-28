@@ -1,3 +1,9 @@
+new Router({
+  mode: 'history',
+  base: process.env.BASE_URL,
+  routes
+})
+
 var url = window.location.href;
 
 function getCaption(obj)
