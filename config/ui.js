@@ -4,7 +4,7 @@ AV.init({
 });
 
 var url = window.location.href;
-var usrstatus =
+var usrstatus = "#";
 
 function getCaption(obj)
 {
@@ -13,12 +13,6 @@ function getCaption(obj)
 	//  console.log(obj);
 	return obj;
 }
-
-"owner": {
-    "__type": "String",
-    "className": "NPUSRI",
-    "objectId": "57e264c667f3560056c3cb1e"
-  },
 	  
 function getUsrStatus(getUsrStatusresult)
 {
