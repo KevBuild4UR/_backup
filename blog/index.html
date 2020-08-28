@@ -17,7 +17,6 @@ site-nav-title: Neptune Blog
 </section>
 
 <section id="blog-main-content">
-<div class="container">
 <div class="posts-container mx-auto px-3 my-5">
   <div class="posts">
 {% for post in paginator.posts %}
@@ -40,7 +39,7 @@ site-nav-title: Neptune Blog
   </div>
 </div>
 {% endfor %}
- 
+ <div class="container">
   <div class="pagination">
     {% if paginator.next_page %}
       <a class="pagination-item older" href="/blog/page{{ paginator.next_page }}/">Older</a>
@@ -58,8 +57,8 @@ site-nav-title: Neptune Blog
     {% endif %}    
 </div>
   </div>
+  </div>
 
-</div>
 </div>
 
 {% include landing-footer.html %}
