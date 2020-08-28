@@ -8,5 +8,5 @@ function getCaption(obj){
 }
 
 window.onload = function() {
-  document.getElementById('main').innerHTML = getCaption(url);
+  document.getElementById('main').innerHTML ='<img src="https://a.rsg.sc//n/' + getCaption(url) + '/l" />';
 }
